@@ -13,7 +13,7 @@ function App(){
     }
 
     return(
-<div>
+<div id="root">
 <h1>Image Gallery</h1>
         <div className="continer">
             <div className='app'>
